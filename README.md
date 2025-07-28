@@ -10,4 +10,3 @@ Professor Dr. Deepak Mishra
 Department of Avionics , IIST
 ## Project Overview
 This project focuses on classifying audio signals using Signal Processing Techniques.I processed ',wav' files, extracted features (e.g., MFCCs, Spectrograms) and also try to see the transformation and after that trained classifiers to categorize sounds into different labels
-## Folder Structure
